@@ -18,7 +18,3 @@ Yearly
 - Kavya
 - Manoj
 - Karthik
-
-Loyal
-- 
-- 

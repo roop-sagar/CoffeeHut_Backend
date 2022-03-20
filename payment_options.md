@@ -3,4 +3,3 @@
 - Debit card
 - UPI
 - Net banking
-- Coffehut_Wallet
