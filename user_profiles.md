@@ -18,3 +18,7 @@ Yearly
 - Kavya
 - Manoj
 - Karthik
+
+Loyal
+- Arjun
+- Ashok
